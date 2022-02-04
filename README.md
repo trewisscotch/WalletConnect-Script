@@ -1,0 +1,2 @@
+# WalletConnect-Script
+WalletConnect Script
